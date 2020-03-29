@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KodillaCourseApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KodillaCourseApplication.class, args);
+
+        System.out.println("Hello JAVA");
     }
 
 }
